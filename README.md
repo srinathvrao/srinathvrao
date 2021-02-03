@@ -4,7 +4,7 @@ I'm Srinath. I like playing video games, and building software.
 
 #### 🌱 My Experience 
 
-- I was a Computer Vision Research Intern for over a year, and I co-wrote a paper which I presented at IEEE CICT, 2020. 
+- I was a Computer Vision Research Intern, and I co-wrote a paper which I presented at IEEE CICT, 2020. 
 - I was also a Data Science Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
 
 #### 🔭 I’m currently working on 
