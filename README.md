@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. I am looking for an internship during the Summer of 2022.
+I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. I am currently seeking Applied Science / Computer Vision / Software Engineering Internships for the Summer of 2022. You can email me at [svenkoba@asu.edu](mailto:svenkoba@asu.edu) if you have an opening!
 
 #### My Experience 
 
@@ -8,10 +8,10 @@ I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State 
 - I was also a Computer Vision Research Intern at IIITDM Kancheepuram. I co-wrote a paper that I presented at IEEE CICT, 2020. 
 - I also spearheaded the development of a Full Stack Web application for my Undergrad College's Model United Nations.
 
-#### I’m looking to work on 
+#### My interests 
 
 - My research interests lie in the intersection of Computer Vision and Robotics. I hope to work on a thesis in the same field during my Master's program.
-- Lunar and/or Martian Vehicles that use Computer Vision and SLAM algorithms sometime in the future.
+- In the future, I want to work on Lunar and/or Martian Vehicles that use Computer Vision and SLAM algorithms.
 
 #### Fun fact: 
 
