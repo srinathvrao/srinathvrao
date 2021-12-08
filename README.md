@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Srinath. I like working on projects in Machine Learning and Computer Vision.
+I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. My research interests lie in the intersection of Computer Vision and Robotics. I hope to work on a thesis in the same field during my Master's program.
 
 #### My Experience 
 
