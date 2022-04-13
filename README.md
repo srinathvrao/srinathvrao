@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. I am currently seeking Applied Science / Computer Vision / Software Engineering Internships for the Summer of 2022. You can email me at [svenkoba@asu.edu](mailto:svenkoba@asu.edu) if you have an opening!
+I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe.
 
 #### My Experience 
 
