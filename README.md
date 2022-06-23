@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe.
+I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. I'm currently doing a Summer Internship @ ServiceNow, in San Diego, CA!
 
 #### My Experience 
 
