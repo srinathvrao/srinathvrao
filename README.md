@@ -5,7 +5,7 @@ I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State 
 #### My Experience 
 
 - I was a Machine Learning Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
-- I was also a Computer Vision Research Intern at IIITDM Kancheepuram. I co-wrote a paper that I presented at IEEE CICT, 2020. 
+- I was also a Computer Vision Research Intern at IIITDM Kancheepuram, where I co-wrote 2 papers on Face Detection and Recognition in low-illumination environments. 
 - I also spearheaded the development of a Full Stack Web application for my Undergrad College's Model United Nations.
 
 #### My interests 
