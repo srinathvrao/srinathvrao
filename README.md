@@ -1,12 +1,13 @@
 ### Hi there
 
-I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. I'm currently doing a Summer Internship @ ServiceNow, in San Diego, CA!
+I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. 
 
 #### My Experience 
 
-- I was a Machine Learning Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
-- I was also a Computer Vision Research Intern at IIITDM Kancheepuram, where I co-wrote 2 papers on Face Detection and Recognition in low-illumination environments. 
-- I also spearheaded the development of a Full Stack Web application for my Undergrad College's Model United Nations.
+- Software Engineering Intern at ServiceNow, where I worked on Operating Systems and Text Processing.
+- Machine Learning Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
+- Computer Vision Research Intern at IIITDM Kancheepuram, where I co-wrote 2 papers on Face Detection and Recognition in low-illumination environments. 
+- Spearheaded the development of a Full Stack Web application for my Undergrad College's Model United Nations.
 
 #### My interests 
 
