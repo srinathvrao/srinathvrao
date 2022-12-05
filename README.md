@@ -1,4 +1,4 @@
-### Hi there
+### Hi!
 
 I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. 
 
