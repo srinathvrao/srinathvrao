@@ -11,7 +11,7 @@ I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State 
 
 #### My interests 
 
-- My research interests lie in the intersection of Computer Vision and Robotics. I hope to work on a thesis in the same field during my Master's program.
+- My research interests lie in the intersection of Computer Vision and Robotics.
 - In the future, I want to work on Lunar and/or Martian Vehicles that use Computer Vision and SLAM algorithms.
 
 #### Fun fact: 
