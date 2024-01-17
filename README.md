@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State University, in Tempe. 
+I'm Srinath, a Systems Software Engineer working at ServiceNow, in Kirkland, WA, since July '23.
 
 #### My Experience 
 
@@ -8,11 +8,6 @@ I'm Srinath. I'm a Master's Student, studying Computer Science at Arizona State 
 - Machine Learning Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
 - Computer Vision Research Intern at IIITDM Kancheepuram, where I co-wrote 2 papers on Face Detection and Recognition in low-illumination environments. 
 - Spearheaded the development of a Full Stack Web application for my Undergrad College's Model United Nations.
-
-#### My interests 
-
-- My research interests lie in the intersection of Computer Vision and Robotics.
-- In the future, I want to work on Lunar and/or Martian Vehicles that use Computer Vision and SLAM algorithms.
 
 #### Fun fact: 
 
