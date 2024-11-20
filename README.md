@@ -1,9 +1,12 @@
 ### Hi!
 
-I'm Srinath, a Systems Software Engineer working at ServiceNow, in Kirkland, WA, since July '23.
+I'm Srinath, a New Grad Systems Software Engineer working at ServiceNow, in Kirkland, WA, since July '23. I also work on [instantgames.org](https://github.com/srinathvrao/instant-chess).
+
+I'm currently looking for Early Career Software Engineering roles. You can contact me at [srinathv1001@gmail.com](mailto:srinathv1001@gmail.com) if you think I'd be a good fit for your company/team.
 
 #### My Experience 
 
+- Systems Software Engineer at ServiceNow, July 2023 - Current.
 - Software Engineering Intern at ServiceNow, where I worked on Operating Systems and Text Processing.
 - Machine Learning Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
 - Computer Vision Research Intern at IIITDM Kancheepuram, where I co-wrote 2 papers on Face Detection and Recognition in low-illumination environments. 
