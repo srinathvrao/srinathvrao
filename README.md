@@ -4,6 +4,8 @@ I'm Srinath, a Senior Systems Software Engineer working at ServiceNow, in Kirkla
 
 I also work on [instantgames.org](https://github.com/srinathvrao/instant-chess).
 
+I'm currently looking for Early career / Mid-level Software Engineering ReactJS / backend infrastructure roles. You can contact me at [srinathv1001@gmail.com](mailto:srinathv1001@gmail.com) if you think I'd be a good fit for your company/team.
+
 #### My Experience 
 
 - Senior Systems Software Engineer at ServiceNow, March 2025 - Current, where I design and build pipelines for infrastructure validation and deployments.
