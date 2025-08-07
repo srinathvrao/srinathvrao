@@ -2,7 +2,7 @@
 
 I'm Srinath, a Senior Systems Software Engineer working at ServiceNow, in Kirkland, WA, since July '23. 
 
-I also work on [instantgames.org](https://github.com/srinathvrao/instant-chess).
+I also work on [this chessbot](https://github.com/srinathvrao/instant-chess).
 
 I'm currently looking for Early career / Mid-level Software Engineering ReactJS / backend infrastructure roles. You can contact me at [srinathv1001@gmail.com](mailto:srinathv1001@gmail.com) if you think I'd be a good fit for your company/team.
 
