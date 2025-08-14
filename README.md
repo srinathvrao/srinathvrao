@@ -4,13 +4,13 @@ I'm Srinath, a Senior Systems Software Engineer working at ServiceNow, in Kirkla
 
 I also work on [this chessbot](https://github.com/srinathvrao/instant-chess).
 
-I'm currently looking for Early career / Mid-level Software Engineering ReactJS / backend infrastructure roles. You can contact me at [srinathv1001@gmail.com](mailto:srinathv1001@gmail.com) if you think I'd be a good fit for your company/team.
+I'm currently looking for Early career / Mid-level Software Engineering ReactJS / backend infrastructure roles. You can find my resume [here](https://drive.google.com/file/d/1Q7To1z4lokgcmFgVYsGUnQQo9tdGA7wq/view?usp=sharing) or contact me at [srinathv1001@gmail.com](mailto:srinathv1001@gmail.com) if you think I'd be a good fit for your company/team.
 
 #### My Experience 
 
-- Senior Systems Software Engineer at ServiceNow, March 2025 - Current, where I design and build pipelines for infrastructure validation and deployments.
+- Senior Systems Software Engineer at ServiceNow, March 2025 - Current, where I train engineers and design and build pipelines for infrastructure validation and deployments.
 - Systems Software Engineer at ServiceNow, July 2023 - Feb 2025, where I contributed to CI/CD pipelines for infrastructure validation.
-- Software Engineering Intern at ServiceNow, where I worked on Operating Systems and Text Processing.
+- Software Engineering Intern at ServiceNow, where I worked on Operating Systems and Natural Language Summarization.
 - Machine Learning Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
 - Computer Vision Research Intern at IIITDM Kancheepuram, where I co-wrote 2 papers on Face Detection and Recognition in low-illumination environments. 
 - Spearheaded the development of a Full Stack Web application for my Undergrad College's Model United Nations.
