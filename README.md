@@ -7,7 +7,7 @@ I'm looking for Early career / Mid-level Software Engineering ReactJS / backend 
 ### Fun stuff
 
 - I work on [this chessbot](https://github.com/srinathvrao/instant-chess) that trash talks every move you make.
-- I'm currently scaling a simple [reservation web app](https://github.com/srinathvrao/ssnmun19) I built during my undergrad to handle large amounts of traffic and ensure consistency. 
+- I'm currently re-building a simple [reservation app](https://github.com/srinathvrao/ssnmun19) I built during my undergrad with scale considerations.
 
 #### My Experience 
 
