@@ -2,7 +2,7 @@
 
 I'm Srinath, a Senior Systems Software Engineer working at ServiceNow, in Kirkland, WA, since July '23. 
 
-I'm looking for Early career / Mid-level Software Engineering Java roles. You can find my resume [here](https://drive.google.com/file/d/1Q7To1z4lokgcmFgVYsGUnQQo9tdGA7wq/view?usp=sharing) or contact me at [srinathv1001@gmail.com](mailto:srinathv1001@gmail.com) if you think I'd be a good fit for your company/team.
+I'm looking for Early career / Mid-level Java roles. You can find my resume [here](https://drive.google.com/file/d/1Q7To1z4lokgcmFgVYsGUnQQo9tdGA7wq/view?usp=sharing) or contact me at [srinathv1001@gmail.com](mailto:srinathv1001@gmail.com) if you think I'd be a good fit for your company/team.
 
 ### Fun stuff
 
