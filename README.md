@@ -11,7 +11,7 @@ I'm looking for Early career / Mid-level Java roles. You can find my resume [her
 
 #### My Experience 
 
-- Senior Systems Software Engineer at ServiceNow, March 2025 - Current, where I train engineers and design and build pipelines for infrastructure validation and deployments.
+- Senior Systems Software Engineer at ServiceNow, March 2025 - Current, where I maintain a Python tool used on average by 30 engineers a day.
 - Systems Software Engineer at ServiceNow, July 2023 - Feb 2025, where I contributed to CI/CD pipelines for infrastructure validation.
 - Software Engineering Intern at ServiceNow, where I worked on Operating Systems and Natural Language Summarization.
 - Machine Learning Intern at AstraZeneca, where I worked on projects in Cheminformatics and Bioinformatics.
