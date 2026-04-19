@@ -13,7 +13,7 @@ I'm looking for Early career / Mid-level Java roles.
 
 I can solve the Rubik's cube [kinda fast.](https://www.worldcubeassociation.org/persons/2015SRIN10)
 
-PS: I have my own Claude Pro personal account. I do not condone using Claude enterprise for personal projects :)
+PS: I have my own Claude Pro personal account. I do not condone using Claude enterprise for personal projects.
 
 <!--
 **srinathvrao/srinathvrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
