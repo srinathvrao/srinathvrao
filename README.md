@@ -5,7 +5,7 @@ I'm Systems SWE 2 at ServiceNow where I write python, MCP servers, and do my bes
 ### Fun stuff
 
 - [trashtalk chessbot](https://github.com/srinathvrao/instant-chess)
-- [airplane tracker AI bot](https://github.com/srinathvrao/up-in-the-sky)
+- [airplane tracker chatbot](https://github.com/srinathvrao/up-in-the-sky)
 
 I'm looking for Early career / Mid-level Java roles.
 
