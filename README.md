@@ -7,7 +7,7 @@ I'm Srinath, a SWE working at ServiceNow, in Kirkland, WA, since July '23. I'm l
 - [trashtalk chessbot](https://github.com/srinathvrao/instant-chess)
 - [airplane tracker AI bot](https://github.com/srinathvrao/up-in-the-sky)
 
-I'm a Systems SWE 2 at ServiceNow where I write python and MCPs do my best to deplete my claude enterprise credits every month.
+I'm a Systems SWE 2 at ServiceNow where I write python, MCP servers, and do my best to deplete my claude enterprise credits every month.
 
 #### Fun fact: 
 
