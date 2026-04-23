@@ -7,7 +7,7 @@ I'm Systems SWE 2 at ServiceNow where I write python, MCP servers, and do my bes
 - [trashtalk chessbot](https://github.com/srinathvrao/instant-chess)
 - [airplane tracker chatbot](https://github.com/srinathvrao/up-in-the-sky)
 
-I'm looking for Early career / Mid-level Java roles.
+I'm looking for Early career / Mid-level SWE roles. On my own projects, I use Python and TypeScript.
 
 #### Fun fact: 
 
