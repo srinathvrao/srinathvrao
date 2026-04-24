@@ -5,6 +5,8 @@ I'm Systems SWE 2 at ServiceNow where I write python, MCP servers, and do my bes
 ### Fun stuff
 
 - [trashtalk chessbot](https://github.com/srinathvrao/instant-chess)
+- [restaurant chatbot (No AI code/text)](https://github.com/srinathvrao/restaurant-finder)
+- [my pytorch implementation of VLocNet](https://github.com/srinathvrao/VLocNet)
 - [airplane tracker chatbot](https://github.com/srinathvrao/up-in-the-sky)
 
 I'm looking for Early career / Mid-level SWE roles. On my own projects, I use Python and TypeScript.
