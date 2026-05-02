@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Systems SWE 2 at ServiceNow where I write python, MCP servers, and do my best to deplete my claude enterprise credits every month. 
+I'm a Systems SWE 2 at ServiceNow where I write python, MCP servers, and do my best to deplete my claude enterprise credits every month. 
 
 #### Food for thought
 
