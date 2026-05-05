@@ -12,7 +12,7 @@ Now that the depressing stuff is out of the way,
 ### Fun stuff I built
 
 - [trashtalk chessbot](https://github.com/srinathvrao/instant-chess)
-- [restaurant chatbot (No AI code/text)](https://github.com/srinathvrao/restaurant-finder)
+- [ChompGPT](https://github.com/srinathvrao/ChompGPT) - a restaurant finder chatbot
 - [my pytorch implementation of VLocNet](https://github.com/srinathvrao/VLocNet)
 
 I'm looking for Early career / Mid-level SWE roles. On my own projects, I use Python and TypeScript.
