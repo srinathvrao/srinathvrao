@@ -1,18 +1,16 @@
 ### Hi!
 
-I'm a Systems SWE at ServiceNow where I write Python, JS, and do my best to deplete my claude enterprise credits every month.
+I'm a Senior SWE at ServiceNow where I write Python, JS, and build Claude Code automations.
 
-### Fun stuff I built
+### Fun projects I work on:
 
 - [hungry.city](https://github.com/srinathvrao/hungry.city) - an NYC-specific restaurant finder chatbot
 - [trashtalk chessbot](https://github.com/srinathvrao/instant-chess)
 - [my pytorch implementation of VLocNet](https://github.com/srinathvrao/VLocNet)
 
-
 #### Food for thought
 
-There's probably something important about hand-typing code and learning what you're building, so you can confirm the AI didn't mess up anywhere.
-... Until AI is good enough to make no mistakes and there's no need for jobs anymore.
+There's probably something important about hand-typing code and learning what you're building, so you can confirm the AI didn't mess up anywhere. ...Until AI is good enough to make no mistakes.
 
 #### Fun fact: 
 
