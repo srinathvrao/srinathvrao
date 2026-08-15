@@ -2,15 +2,11 @@
 
 I'm a Senior SWE at ServiceNow where I write Python, JS, and build Claude Code automations.
 
-### Fun projects I work on:
+### Fun stuff I built:
 
-- [hungry.city](https://github.com/srinathvrao/hungry.city) - an NYC-specific restaurant finder chatbot
+- [hungry.city](https://github.com/srinathvrao/hungry.city) - an NYC restaurant finder chatbot with a super fast geospatial DB search
 - [trashtalk chessbot](https://github.com/srinathvrao/instant-chess)
 - [my pytorch implementation of VLocNet](https://github.com/srinathvrao/VLocNet)
-
-#### Food for thought
-
-There's probably something important about hand-typing code and learning what you're building, so you can confirm the AI didn't mess up anywhere. ...Until AI is good enough to make no mistakes.
 
 #### Fun fact: 
 
