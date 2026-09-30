@@ -1,6 +1,7 @@
 ### Hi!
 
-I'm a Senior SWE at ServiceNow where I write Python, JS, and build Claude Code automations.
+I'm a Senior SWE at ServiceNow, Kirkland, WA, where I write Python, JS, and Rust. 
+I'm open to backend/infra SWE roles where I can use my experience building reliable, fault-tolerant systems.
 
 ### Fun stuff I built:
 
@@ -10,7 +11,7 @@ I'm a Senior SWE at ServiceNow where I write Python, JS, and build Claude Code a
 
 #### Fun fact: 
 
-I can solve the Rubik's cube [kinda fast.](https://www.worldcubeassociation.org/persons/2015SRIN10)
+I can solve the Rubik's cube [pretty fast.](https://www.worldcubeassociation.org/persons/2015SRIN10)
 
 <!--
 **srinathvrao/srinathvrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
