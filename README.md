@@ -1,6 +1,7 @@
 ### Hi!
 
 I'm a Senior SWE at ServiceNow, Kirkland, WA, where I write Python, JS, and Rust. 
+
 I'm open to backend/infra SWE roles where I can use my experience building reliable, fault-tolerant systems.
 
 ### Fun stuff I built:
